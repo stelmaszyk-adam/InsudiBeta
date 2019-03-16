@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_calculator"
+            android:icon="@drawable/calculator"
+            android:title="@string/calculatorMenu"/>
+        <item android:id="@+id/nav_user"
+            android:icon="@drawable/user"
+            android:title="@string/userMenu"/>
+        <item android:id="@+id/nav_diary"
+            android:icon="@drawable/diary"
+            android:title="@string/diaryMenu"/>
+        <item android:id="@+id/nav_authors"
+            android:icon="@drawable/copyright"
+            android:title="@string/authorsMenu"/>
+
+    </group>
+
+</menu>

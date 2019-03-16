@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f6cb82</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="buttonLabel">#d3d3d3</color>
+    <color name="colors_app">#4FC3F7</color>
+    <color name="bar_app">#01579B</color>
+</resources>
